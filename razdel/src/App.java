@@ -19,7 +19,7 @@ public class App implements ActionListener{
 		mult=new JButton("Вычислить");//creating instance of JButton  
 		param1=new JTextField();
 		param2=new JTextField();
-		res=new JLabel("Answer: ");
+		res=new JLabel("Ответ: ");
 		res2=new JLabel();
 		res3=new JLabel("Width");
 		res4=new JLabel("Length");
