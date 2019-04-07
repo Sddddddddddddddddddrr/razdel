@@ -16,7 +16,7 @@ public class App implements ActionListener{
 		JFrame frame=new JFrame();//creating instance of JFrame  
 		frame.setTitle("App");
         
-		mult=new JButton("Calculate");//creating instance of JButton  
+		mult=new JButton("Вычислить");//creating instance of JButton  
 		param1=new JTextField();
 		param2=new JTextField();
 		res=new JLabel("Answer: ");
