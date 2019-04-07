@@ -22,7 +22,7 @@ public class App implements ActionListener{
 		res=new JLabel("Ответ: ");
 		res2=new JLabel();
 		res3=new JLabel("Ширина");
-		res4=new JLabel("Length");
+		res4=new JLabel("Длина");
 		
 		param1.setBounds(50, 100, 70, 30);
 		param2.setBounds(160, 100, 70, 30);
