@@ -21,7 +21,7 @@ public class App implements ActionListener{
 		param2=new JTextField();
 		res=new JLabel("Ответ: ");
 		res2=new JLabel();
-		res3=new JLabel("Width");
+		res3=new JLabel("Ширина");
 		res4=new JLabel("Length");
 		
 		param1.setBounds(50, 100, 70, 30);
